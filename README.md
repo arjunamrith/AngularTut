@@ -7,3 +7,5 @@ Dependencies
 -NodeJS(can be downloaded from https://nodejs.org/en/)
 
 To start the project from the root directory of the project run the command 'ng serve --open'(which would directly open on your browser) or 'ng serve' and navigate to localhost:4200 in your browser
+
+
